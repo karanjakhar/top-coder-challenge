@@ -8,7 +8,7 @@
 
 # Example 1: Python implementation
 # Run Python script and capture its output
-result=$(python3 calculate_reimbursement_v2.py "$1" "$2" "$3")
+result=$(python3 calculate_reimbursement_v6.py "$1" "$2" "$3")
 
 # Print the result
 echo "$result"
